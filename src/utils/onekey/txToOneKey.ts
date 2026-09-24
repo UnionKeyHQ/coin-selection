@@ -1,5 +1,5 @@
 // @ts-nocheck
-import * as CardanoWasm from '@emurgo/cardano-serialization-lib-browser';
+import * as CardanoWasm from '@emurgo/cardano-serialization-lib-asmjs';
 import type { IChangeAddress } from './types';
 
 export enum CardanoAddressType {
