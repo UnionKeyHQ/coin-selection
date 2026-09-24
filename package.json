@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/cardano-coin-selection",
+  "name": "@unionkeyhq/cardano-coin-selection",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -7,10 +7,10 @@
   ],
   "license": "MIT",
   "author": "OneKeyHQ",
-  "homepage": "https://github.com/OneKeyHQ/coin-selection",
+  "homepage": "https://github.com/UnionKeyHQ/coin-selection",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/coin-selection.git"
+    "url": "git+https://github.com/UnionKeyHQ/coin-selection.git"
   },
   "publishConfig": {
     "access": "public"
